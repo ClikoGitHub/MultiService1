@@ -1,0 +1,5 @@
+D:\!Разработка\MultiService\MultiService\bin\Debug\MultiService.exe
+D:\!Разработка\MultiService\MultiService\bin\Debug\MultiService.pdb
+D:\!Разработка\MultiService\MultiService\obj\x86\Debug\MultiService.exe
+D:\!Разработка\MultiService\MultiService\obj\x86\Debug\MultiService.pdb
+D:\!Разработка\MultiService\MultiService\bin\Debug\MultiService.exe.config
